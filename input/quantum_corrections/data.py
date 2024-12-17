@@ -94,6 +94,15 @@ atom_energies = {
         "Cl": -460.01879077751823,
         "Br": -2573.7318488665655,
     },
+    "LevelOfTheory(method='dlpnoccsd(t)f12',basis='ccpvtzf12',software='orca')": {
+    'H': -0.5003863366430054,
+    'C': -37.7843756417972,
+    'N': -54.52413402973839,
+    'O': -74.99806541328263,
+    'F': -99.65950317651763,
+    'S': -397.6673338128851,
+    'Cl': -459.69406024613835
+    },
     #  LevelOfTheory(method='b3lyp2023',basis='def2tzvp',software='gaussian')
     # H :     -0.50109298 +/- 0.00188833 Hartree
     # C :    -37.86564131 +/- 0.00805328 Hartree
